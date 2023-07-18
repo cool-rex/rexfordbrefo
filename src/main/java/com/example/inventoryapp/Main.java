@@ -12,6 +12,11 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/*
+* Name: Rexford Brefo
+* ID: 10917663
+* */
+
 public class Main extends Application {
     private static Stage mainStage;
     private static Inventory inv = new Inventory();
